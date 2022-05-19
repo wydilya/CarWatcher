@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "lambo_terza.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
